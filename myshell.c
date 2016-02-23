@@ -1,7 +1,7 @@
 /*****************************
 myshell.c
-Samuel Leason Snyder
-samuel.leason.snyder@gmail.com
+Samuel Snyder
+samuel.l.snyder@gmail.com
 *****************************/
 
 #include <sys/wait.h> // WHNOHANG
